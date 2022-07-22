@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 ## About the project
 
 This project is about handling weekly budget, following Udemy's couse: "React-La Guía Completa: Hooks Context Redux MERN +15 Apps" by Juan Pablo De la torre Valdez.
